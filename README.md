@@ -1,6 +1,6 @@
 ![alt text](https://d30y9cdsu7xlg0.cloudfront.net/png/2143-200.png "ProdGrid")
 
-# Prod Grid v1.0
+# ProGrid v1.0
 Run Selenium hub with VNC supported Firefox and Chrome  with scale feature with the simple compose commands.
 
 Welcome to the ProGrid:
